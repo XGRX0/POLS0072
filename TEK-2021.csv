@@ -1,0 +1,644 @@
+tekid,gwid,statename,gwgroupid,groupname
+101,70,Mexico,7002000,Maya
+101,80,Belize,8003000,Maya
+101,90,Guatemala,9002000,Maya
+101,91,Honduras,9107000,"Indigenous peoples (Lenca, Maya-Chorti, Miskito, Tawahka/Sumu, Xicaque, Pech, Nahua)"
+101,92,El Salvador,9202000,Indigenous peoples
+102,91,Honduras,9107000,"Indigenous peoples (Lenca, Maya-Chorti, Miskito, Tawahka/Sumu, Xicaque, Pech, Nahua)"
+102,92,El Salvador,9202000,Indigenous peoples
+103,91,Honduras,9107000,"Indigenous peoples (Lenca, Maya-Chorti, Miskito, Tawahka/Sumu, Xicaque, Pech, Nahua)"
+103,93,Nicaragua,9303000,Miskitos
+104,2,United States of America,203000,African Americans
+104,94,Costa Rica,9402000,Afro-Costa Ricans
+110,95,Panama,9505000,Choco (Embera-Wounan)
+110,100,Colombia,10003000,Afro-Colombian
+111,100,Colombia,10003000,Afro-Colombian
+111,101,Venezuela,10103000,Indigenous peoples
+112,101,Venezuela,10103000,Indigenous peoples
+112,110,Guyana,11003000,Indigenous peoples
+113,101,Venezuela,10103000,Indigenous peoples
+113,140,Brazil,14003000,Indigenous peoples
+114,110,Guyana,11003000,Indigenous peoples
+114,140,Brazil,14003000,Indigenous peoples
+115,130,Ecuador,13003000,Indigenous highland peoples (Kichwa)
+115,135,Peru,13501000,Indigenous peoples of the Andes
+115,145,Bolivia,14503000,Quechua
+115,155,Chile,15503000,Other indigenous groups
+116,130,Ecuador,13004000,"Indigenous lowland peoples (Shuar, Achuar etc.)"
+116,135,Peru,13505000,Indigenous peoples of the Amazon
+117,135,Peru,13501000,Indigenous peoples of the Andes
+117,145,Bolivia,14505000,Aymara
+117,155,Chile,15503000,Other indigenous groups
+118,100,Colombia,10003000,Afro-Colombian
+118,135,Peru,13505000,Indigenous peoples of the Amazon
+118,140,Brazil,14003000,Indigenous peoples
+119,145,Bolivia,14506000,Guaraní and other eastern indigenous groups
+119,150,Paraguay,15005000,Tupi-Guaraní and other indigenous groups
+119,160,Argentina,16002000,Indigenous peoples
+120,155,Chile,15502000,Mapuche
+120,160,Argentina,16002000,Indigenous peoples
+121,145,Bolivia,14506000,Guaraní and other eastern indigenous groups
+121,150,Paraguay,15005000,Tupi-Guaraní and other indigenous groups
+121,160,Argentina,16002000,Indigenous peoples
+122,2,United States of America,201000,Whites
+122,20,Canada,2001000,English speakers
+123,2,United States of America,205000,American Indians
+123,20,Canada,2004000,Indigenous peoples
+124,2,United States of America,202000,Latinos
+124,70,Mexico,7001000,Mestizos
+124,80,Belize,8001000,Mestizos
+201,359,Moldova,35903000,Russian speakers
+201,365,Russia (Soviet Union),36501000,Russians
+201,366,Estonia,36602000,Russians
+201,367,Latvia,36702000,Russians
+201,368,Lithuania,36803000,Russians
+201,369,Ukraine,36902000,Russians
+201,370,Belarus (Byelorussia),37002000,Russians
+201,666,Israel,66605000,Russians (Jewish)
+201,701,Turkmenistan,70112000,Russians
+201,702,Tajikistan,70202000,Russians
+201,703,Kyrgyz Republic,70302000,Russians
+201,704,Uzbekistan,70403000,Russians
+201,705,Kazakhstan,70503000,Russian-speakers
+201,705,Kazakhstan,70503100,Russians
+203,339,Albania,33901000,Albanians
+203,340,Serbia,34006000,Albanians
+203,341,Montenegro,34104000,Albanians
+203,343,Macedonia (FYROM/North Macedonia),34302000,Albanians
+203,345,Yugoslavia,34506000,Albanians
+203,347,Kosovo,34701000,Albanians
+204,365,Russia (Soviet Union),36508000,Armenians
+204,371,Armenia,37101000,Armenians
+204,372,Georgia,37202000,Armenians
+204,373,Azerbaijan,37304000,Armenians
+204,630,Iran (Persia),63002000,Armenians
+204,660,Lebanon,66001000,Armenian Orthodox
+204,660,Lebanon,66006000,Armenian Catholics
+205,365,Russia (Soviet Union),36509000,Azeri
+205,372,Georgia,37205000,Azeri
+205,373,Azerbaijan,37301000,Azeri
+205,630,Iran (Persia),63004000,Azeri
+206,220,France,22002000,Basques
+206,230,Spain,23004000,Basques
+207,340,Serbia,34004000,Bosniak/Muslims
+207,341,Montenegro,34103000,Bosniak/Muslims
+207,343,Macedonia (FYROM/North Macedonia),34307000,Bosniaks
+207,344,Croatia,34403000,Bosniaks
+207,345,Yugoslavia,34504000,Bosniaks/Muslims
+207,346,Bosnia-Herzegovina,34601000,Bosniaks/Muslims
+207,347,Kosovo,34706000,Bosniaks
+208,355,Bulgaria,35501000,Bulgarians
+208,359,Moldova,35905000,Bulgarians
+209,290,Poland,29004000,Byelorussians
+209,365,Russia (Soviet Union),36504000,Byelorussians
+209,366,Estonia,36604000,Byelorussians
+209,367,Latvia,36703000,Byelorussians
+209,370,Belarus (Byelorussia),37001000,Byelorussians
+210,340,Serbia,34002000,Croats
+210,341,Montenegro,34105000,Croats
+210,344,Croatia,34401000,Croats
+210,345,Yugoslavia,34502000,Croats
+210,346,Bosnia-Herzegovina,34603000,Croats
+211,375,Finland,37501000,Finns
+212,365,Russia (Soviet Union),36510000,Georgians
+212,372,Georgia,37201000,Georgians
+214,211,Belgium,21103000,Germans
+214,225,Switzerland,22501000,Swiss Germans
+214,260,German Federal Republic,26001000,Germans
+214,265,German Democratic Republic,26501000,Germans
+214,290,Poland,29002000,Germans
+214,305,Austria,30501000,Austrians
+214,325,Italy/Sardinia,32504000,German speakers (Austrians)
+214,360,Rumania,36004000,Germans
+214,365,Russia (Soviet Union),36517000,Germans
+214,565,Namibia,56511000,Whites
+214,705,Kazakhstan,70501000,Germans
+215,339,Albania,33902000,Greeks
+215,350,Greece,35001000,Greeks
+215,352,Cyprus,35201000,Greeks
+215,660,Lebanon,66003000,Greek Orthodox
+216,310,Hungary,31001000,Hungarians
+216,315,Czechoslovakia,31503000,Hungarians
+216,317,Slovakia,31702000,Hungarians
+216,340,Serbia,34011000,Hungarians
+216,344,Croatia,34406000,Hungarians
+216,345,Yugoslavia,34511000,Hungarians
+216,349,Slovenia,34905000,Hungarians
+216,360,Rumania,36002000,Hungarians
+216,369,Ukraine,36907000,Hungarians
+217,225,Switzerland,22503000,Swiss Italians
+217,325,Italy/Sardinia,32501000,Italians
+217,344,Croatia,34404000,Italians
+217,349,Slovenia,34906000,Italians
+218,365,Russia (Soviet Union),36512000,Kazakhs
+218,701,Turkmenistan,70111000,Kazakhs
+218,705,Kazakhstan,70502000,Kazakhs
+218,710,China,71035000,Kazakh
+218,712,Mongolia,71202000,Kazakh
+219,365,Russia (Soviet Union),36522000,Kirghis
+219,702,Tajikistan,70201000,Kyrgyz
+219,703,Kyrgyz Republic,70301000,Kyrgyz
+219,710,China,71005400,Kirghiz
+220,365,Russia (Soviet Union),36535000,Lezgins
+220,373,Azerbaijan,37302000,Lezgins
+221,339,Albania,33903000,Macedonians
+221,343,Macedonia (FYROM/North Macedonia),34301000,Macedonians
+221,345,Yugoslavia,34508000,Macedonians
+221,350,Greece,35004000,Macedonians
+221,355,Bulgaria,35505000,Macedonians
+222,340,Serbia,34009000,Montenegrins
+222,341,Montenegro,34101000,Montenegrins
+222,345,Yugoslavia,34509000,Montenegrins
+223,365,Russia (Soviet Union),36527000,Ossetes
+223,372,Georgia,37206000,Ossetians (South)
+224,290,Poland,29001000,Poles
+224,365,Russia (Soviet Union),36518000,Poles
+224,368,Lithuania,36802000,Poles
+224,370,Belarus (Byelorussia),37003000,Poles
+225,220,France,22004000,Roma
+225,230,Spain,23005000,Roma
+225,290,Poland,29006000,Roma
+225,310,Hungary,31002000,Roma
+225,315,Czechoslovakia,31504000,Roma
+225,325,Italy/Sardinia,32506000,Roma
+225,340,Serbia,34012000,Roma
+225,341,Montenegro,34106000,Roma
+225,343,Macedonia (FYROM/North Macedonia),34303000,Roma
+225,344,Croatia,34405000,Roma
+225,345,Yugoslavia,34512000,Roma
+225,346,Bosnia-Herzegovina,34604000,Roma
+225,347,Kosovo,34703000,Roma
+225,349,Slovenia,34908000,Roma
+225,350,Greece,35003000,Roma
+225,355,Bulgaria,35503000,Roma
+225,360,Rumania,36003000,Roma
+225,365,Russia (Soviet Union),36552000,Roma
+225,640,Turkey (Ottoman Empire),64003000,Roma
+226,360,Rumania,36001000,Romanians
+226,369,Ukraine,36903000,Romanians/Moldovans
+227,340,Serbia,34001000,Serbs
+227,341,Montenegro,34102000,Serbs
+227,343,Macedonia (FYROM/North Macedonia),34304000,Serbs
+227,344,Croatia,34402000,Serbs
+227,345,Yugoslavia,34501000,Serbs
+227,346,Bosnia-Herzegovina,34602000,Serbs
+227,347,Kosovo,34702000,Serbs
+228,305,Austria,30502000,Slovenes
+228,345,Yugoslavia,34507000,Slovenes
+228,349,Slovenia,34901000,Slovenes
+229,375,Finland,37502000,Swedes
+229,380,Sweden,38001000,Swedes
+230,365,Russia (Soviet Union),36519000,Tajiks
+230,630,Iran (Persia),63009000,Persians
+230,700,Afghanistan,70014000,Tajiks
+230,702,Tajikistan,70203000,Tajiks
+230,704,Uzbekistan,70404000,Tajiks
+231,365,Russia (Soviet Union),36503000,Tatars
+231,702,Tajikistan,70204000,Tatars
+231,705,Kazakhstan,70504000,Tatars
+232,343,Macedonia (FYROM/North Macedonia),34305000,Turks
+232,347,Kosovo,34705000,Turks
+232,350,Greece,35002000,Muslims
+232,352,Cyprus,35202000,Turks
+232,355,Bulgaria,35502000,Turkish
+232,640,Turkey (Ottoman Empire),64002000,Turkish
+233,290,Poland,29003000,Ukrainians
+233,359,Moldova,35903000,Russian speakers
+233,365,Russia (Soviet Union),36502000,Ukrainians
+233,366,Estonia,36603000,Ukrainians
+233,367,Latvia,36704000,Ukrainians
+233,369,Ukraine,36901000,Ukrainians
+233,705,Kazakhstan,70503000,Russian-speakers
+233,705,Kazakhstan,70503200,Ukrainians
+234,365,Russia (Soviet Union),36505000,Uzbeks
+234,700,Afghanistan,70016000,Uzbeks
+234,701,Turkmenistan,70114000,Uzbeks
+234,702,Tajikistan,70205000,Uzbeks
+234,703,Kyrgyz Republic,70305000,Uzbeks
+234,704,Uzbekistan,70406000,Uzbeks
+234,705,Kazakhstan,70507000,Uzbeks
+235,365,Russia (Soviet Union),36525000,Turkmens
+235,630,Iran (Persia),63010000,Turkmen
+235,645,Iraq,64505000,Turkmen
+235,700,Afghanistan,70015000,Turkmen
+235,701,Turkmenistan,70113000,Turkmen
+236,290,Poland,29005000,European and American Jews
+236,365,Russia (Soviet Union),36511000,Jews
+236,620,Libya,62004000,Jews
+236,630,Iran (Persia),63007000,Jews
+236,651,Egypt,65103000,Jews
+236,666,Israel,66602000,Ashkenazim (Jewish)
+236,666,Israel,66604000,Mizrahim (Jewish)
+236,666,Israel,66605000,Russians (Jewish)
+236,678,Yemen (Arab Republic of Yemen),67804000,Jewish
+237,20,Canada,2002000,French speakers
+237,211,Belgium,21102000,Walloon
+237,220,France,22001000,French
+237,225,Switzerland,22502000,Swiss French
+237,325,Italy/Sardinia,32505000,Aostans (French speakers)
+238,210,Netherlands,21001000,Dutch
+238,211,Belgium,21101000,Flemings
+239,359,Moldova,35901000,Moldovans
+239,365,Russia (Soviet Union),36514000,Moldovans
+239,369,Ukraine,36903000,Romanians/Moldovans
+240,350,Greece,35002000,Muslims
+240,355,Bulgaria,35504000,Pomaks
+241,365,Russia (Soviet Union),36566000,Uighurs
+241,703,Kyrgyz Republic,70304000,Uyghur
+241,705,Kazakhstan,70505000,Uighur
+241,710,China,71036000,Uyghur
+260,200,United Kingdom,20006000,Catholics In N. Ireland
+260,205,Ireland,20501000,Irish
+260,900,Australia,90003000,Whites
+260,920,New Zealand,92002000,New Zealanders
+280,200,United Kingdom,20001000,English
+280,552,Zimbabwe (Rhodesia),55202000,White Zimbabweans
+280,560,South Africa,56004000,English Speakers
+280,565,Namibia,56511000,Whites
+280,571,Botswana,57105000,White
+280,900,Australia,90003000,Whites
+280,920,New Zealand,92002000,New Zealanders
+281,552,Zimbabwe (Rhodesia),55202000,White Zimbabweans
+281,560,South Africa,56001000,Afrikaners
+281,565,Namibia,56511000,Whites
+281,571,Botswana,57105000,White
+290,365,Russia (Soviet Union),36563000,Pamir Tajiks
+290,702,Tajikistan,70206000,Pamiri Tajiks
+301,2,United States of America,206000,Arab Americans
+301,432,Mali,43203000,Arabs/Moors
+301,435,Mauritania,43501000,White Moors (Beydan)
+301,483,Chad,48301000,Arabs
+301,510,Tanzania (Tanganyika),51003000,Zanzibar Arabs
+301,600,Morocco,60002000,Arabs
+301,615,Algeria,61501000,Arabs
+301,616,Tunisia,61601000,Arabs
+301,620,Libya,62001000,Arabs
+301,625,Sudan,62509000,Other Arab Groups
+301,625,Sudan,62512000,"Shaygiyya, Ja'aliyyin and Danagla (Arab)"
+301,630,Iran (Persia),63001000,Arabs
+301,645,Iraq,64503000,Sunni Arabs
+301,651,Egypt,65101000,Arab Muslims
+301,652,Syria,65202000,Sunni Arabs
+301,660,Lebanon,66010000,Sunnis (Arab)
+301,663,Jordan,66301000,Jordanian Arabs
+301,666,Israel,66601000,Palestinians (Arab)
+301,666,Israel,66601100,Israeli Arabs
+301,666,Israel,66601200,Palestinian Arabs
+301,670,Saudi Arabia,67004000,Sunni Shafii/Sofi (Hijazi) (Arab)
+301,670,Saudi Arabia,67005000,Sunni Wahhabi (Najdi) (Arab)
+301,678,Yemen (Arab Republic of Yemen),67801000,Southerners
+301,678,Yemen (Arab Republic of Yemen),67802200,Sunni Shafi'i (Arab)
+301,678,Yemen (Arab Republic of Yemen),67806000,Northern Shafi'i
+301,678,Yemen (Arab Republic of Yemen),67807000,Southern Shafi'i
+301,680,"Yemen, People's Republic of",68001000,Southern Yemenis
+301,690,Kuwait,69003000,Kuwaiti Sunni (Arab)
+301,692,Bahrain,69201000,Sunni Arabs
+301,694,Qatar,69401000,Qatari Arabs
+301,696,United Arab Emirates,69601000,Emirati Arabs
+301,698,Oman,69801000,Ibadhi Muslims (Arab)
+302,371,Armenia,37102000,Kurds/Yezidis
+302,630,Iran (Persia),63008000,Kurds
+302,640,Turkey (Ottoman Empire),64001000,Kurds
+302,645,Iraq,64501000,Kurds
+302,652,Syria,65206000,Kurds
+303,645,Iraq,64502000,Shi'a Arabs
+303,660,Lebanon,66008000,Shi'a Muslims (Arab)
+303,670,Saudi Arabia,67001000,Ismaili Shia (South) (Arab)
+303,670,Saudi Arabia,67002000,Ja'afari Shia (Eastern Province) (Arab)
+303,678,Yemen (Arab Republic of Yemen),67802000,Northerners
+303,678,Yemen (Arab Republic of Yemen),67802100,Zaydis
+303,678,Yemen (Arab Republic of Yemen),67805000,Northern Zaydis
+303,690,Kuwait,69002000,Kuwaiti Shi'a (Arab)
+303,692,Bahrain,69202000,Shi'a Arabs
+305,652,Syria,65203000,Alawi
+305,660,Lebanon,66011000,Alawites
+306,651,Egypt,65102000,Coptic Christians
+306,652,Syria,65204000,Christians
+306,660,Lebanon,66001000,Armenian Orthodox
+306,660,Lebanon,66003000,Greek Orthodox
+306,660,Lebanon,66004000,Greek Catholics
+306,660,Lebanon,66005000,Maronite Christians
+306,660,Lebanon,66006000,Armenian Catholics
+306,660,Lebanon,66009000,Protestants
+306,663,Jordan,66303000,Christians
+307,652,Syria,65201000,Druze
+307,660,Lebanon,66002000,Druze
+307,666,Israel,66601100,Israeli Arabs
+308,660,Lebanon,66007000,Palestinians (Arab)
+308,663,Jordan,66302000,Palestinian Arabs
+308,666,Israel,66601000,Palestinians (Arab)
+308,666,Israel,66601100,Israeli Arabs
+308,666,Israel,66601200,Palestinian Arabs
+350,560,South Africa,56002000,Asians
+350,590,Mauritius,59001300,Tamils and Telugus
+350,750,India,75019000,Tamil (non-SC/ST/OBCs)
+350,780,Sri Lanka (Ceylon),78001000,Indian Tamils
+350,780,Sri Lanka (Ceylon),78004000,Sri Lankan Tamils
+350,820,Malaysia,82003000,East Indians
+351,750,India,75012000,Mizo
+351,775,Myanmar (Burma),77511000,Zomis (Chins)
+352,750,India,75002000,Bengali (non-SC/ST/OBCs)
+352,770,Pakistan,77002000,Bengali
+352,771,Bangladesh,77101000,Bengali Hindus
+352,771,Bangladesh,77102000,Bengali Muslims
+355,500,Uganda,50001000,Asians
+355,590,Mauritius,59001100,Hindi-speaking Hindus
+355,750,India,75005000,Hindi (Non SC/ST OBCs)
+355,770,Pakistan,77008000,Hindus
+355,771,Bangladesh,77101000,Bengali Hindus
+355,790,Nepal,79001000,Caste Hill Hindu Elite
+355,830,Singapore,83003000,Indians
+355,950,Fiji,95002000,Indians
+356,590,Mauritius,59001300,Tamils and Telugus
+356,750,India,75002000,Bengali (non-SC/ST/OBCs)
+356,750,India,75004000,Gujarati (non-SC/ST)
+356,750,India,75005000,Hindi (Non SC/ST OBCs)
+356,750,India,75013000,Other Muslims
+356,750,India,75015000,Oriya (non-SC/ST)
+356,750,India,75017000,Punjabi-Sikhs (non-SC/ST/OBCs)
+356,750,India,75019000,Tamil (non-SC/ST/OBCs)
+356,750,India,75020000,Telugu (Non SC/ST/OBCs)
+356,775,Myanmar (Burma),77504000,Indians
+356,775,Myanmar (Burma),77508000,Muslim Arakanese
+357,750,India,75016000,Other Backward Classes/Castes
+357,750,India,75021000,Scheduled Castes
+357,790,Nepal,79004000,Dalits
+358,750,India,75022000,Scheduled Tribes
+358,771,Bangladesh,77103000,Tribal-Buddhists
+358,790,Nepal,79002000,Adibasi Janajati
+360,700,Afghanistan,70012000,Pashtuns
+360,770,Pakistan,77004000,Pashtuns
+361,770,Pakistan,77003000,Mohajirs
+361,771,Bangladesh,77104000,Biharis (Urdu-Speaker)
+362,630,Iran (Persia),63006000,Baloch
+362,770,Pakistan,77001000,Baluchis
+363,750,India,75017000,Punjabi-Sikhs (non-SC/ST/OBCs)
+363,770,Pakistan,77005000,Punjabi
+364,750,India,75006000,Kashmiri Muslims
+364,750,India,75013000,Other Muslims
+364,770,Pakistan,77003000,Mohajirs
+364,770,Pakistan,77005000,Punjabi
+365,750,India,75013000,Other Muslims
+365,770,Pakistan,77005000,Punjabi
+365,771,Bangladesh,77102000,Bengali Muslims
+365,780,Sri Lanka (Ceylon),78002000,Moors (Muslims)
+365,790,Nepal,79006000,Muslims
+380,760,Bhutan,76002000,Lhotsampa (Hindu Nepalese)
+380,790,Nepal,79003000,Newars
+398,435,Mauritania,43504000,Sahrawis
+398,600,Morocco,60003000,Sahrawis
+401,484,Congo,48405000,Lari/Bakongo
+401,484,Congo,48405010,Bakongo
+401,490,"Congo, Democratic Republic of (Zaire)",49003000,Bakongo
+401,540,Angola,54001000,Bakongo
+402,432,Mali,43203000,Arabs/Moors
+402,435,Mauritania,43502000,Haratins (Black Moors)
+404,420,Gambia,42004000,Diola
+404,433,Senegal,43305000,Diola
+405,452,Ghana,45202000,Ewe
+405,461,Togo,46101000,Ewe (and related groups)
+406,434,Benin,43402000,Southeastern (Yoruba/Nagot and Goun)
+406,475,Nigeria,47506000,Yoruba
+407,420,Gambia,42001000,Mandinka
+407,432,Mali,43201000,"Blacks (Mande, Peul, Voltaic etc.)"
+407,433,Senegal,43304000,Mandingue (and other eastern groups)
+407,437,Cote D'Ivoire,43703000,Northerners (Mande and Voltaic/Gur)
+407,438,Guinea,43801000,Malinke
+407,450,Liberia,45003000,Indigenous Peoples
+407,450,Liberia,45003070,Mandingo
+409,434,Benin,43401000,South/Central (Fon)
+409,461,Togo,46101000,Ewe (and related groups)
+410,420,Gambia,42002000,Fula
+410,432,Mali,43201000,"Blacks (Mande, Peul, Voltaic etc.)"
+410,433,Senegal,43302000,"Pulaar (Peul, Toucouleur)"
+410,435,Mauritania,43503000,Black Africans
+410,438,Guinea,43802000,Peul
+410,471,Cameroon,47104000,Fulani (and other northern Muslim peoples)
+410,475,Nigeria,47501000,Hausa-Fulani and Muslim Middle Belt
+410,482,Central African Republic,48205080,Fulani
+410,482,Central African Republic,48205095,"Northern Muslim groups (Goula, Runga, Kara)"
+411,482,Central African Republic,48205000,"Northern groups (Baya, Banda, Mandjia, Sara, Goula)"
+411,482,Central African Republic,48205070,Sara
+411,482,Central African Republic,48205095,"Northern Muslim groups (Goula, Runga, Kara)"
+411,483,Chad,48304000,Sara
+412,490,"Congo, Democratic Republic of (Zaire)",49011000,Lunda-Yeke
+412,540,Angola,54003000,Lunda-Chokwe
+412,551,Zambia,55104000,Luanda (NW Province)
+413,540,Angola,54005000,Ovimbundu-Ovambo
+413,565,Namibia,56509000,Ovambo
+414,541,Mozambique,54104000,Tsonga-Chopi
+414,560,South Africa,56005000,Blacks
+414,560,South Africa,56005500,Tsonga
+415,420,Gambia,42003000,Wolof
+415,433,Senegal,43301000,Wolof
+415,435,Mauritania,43503000,Black Africans
+416,432,Mali,43202000,Tuareg
+416,436,Niger,43606000,Tuareg
+416,600,Morocco,60001000,Berbers
+416,615,Algeria,61502000,Berbers
+416,620,Libya,62005000,Berbers
+416,620,Libya,62006000,Tuareg
+417,437,Cote D'Ivoire,43702000,Kru
+417,450,Liberia,45003000,Indigenous Peoples
+417,450,Liberia,45003050,Krahn (Guere)
+417,450,Liberia,45003060,Kru
+418,436,Niger,43602000,Hausa
+418,475,Nigeria,47501000,Hausa-Fulani and Muslim Middle Belt
+419,541,Mozambique,54103000,Shona-Ndau
+419,552,Zimbabwe (Rhodesia),55201000,Africans
+419,552,Zimbabwe (Rhodesia),55201200,Shona
+419,552,Zimbabwe (Rhodesia),55201210,Ndau (Shona sub-group)
+419,552,Zimbabwe (Rhodesia),55201220,Shona (minus Ndau)
+419,552,Zimbabwe (Rhodesia),55201221,Manyika (Shona sub-group)
+419,552,Zimbabwe (Rhodesia),55201222,Shona (minus Manyika & Ndau)
+420,432,Mali,43201000,"Blacks (Mande, Peul, Voltaic etc.)"
+420,437,Cote D'Ivoire,43703000,Northerners (Mande and Voltaic/Gur)
+420,439,Burkina Faso (Upper Volta),43901000,Gur
+421,434,Benin,43404000,Southwestern (Adja)
+421,461,Togo,46101000,Ewe (and related groups)
+422,436,Niger,43605000,Toubou
+422,483,Chad,48306000,Toubou
+422,620,Libya,62002000,Toubou
+423,437,Cote D'Ivoire,43705000,Southern Mande
+423,450,Liberia,45003000,Indigenous Peoples
+423,450,Liberia,45003020,Gio
+424,481,Gabon,48104000,"Mbede (Nzebi, Bateke, Obamba)"
+424,484,Congo,48402000,Batéké
+425,483,Chad,48302000,Muslim Sahel groups
+425,483,Chad,48302200,"Zaghawa, Bideyat"
+425,625,Sudan,62515000,Zaghawa
+426,560,South Africa,56005600,Swazi
+426,572,Swaziland (Eswatini),57201000,Swazi
+427,510,Tanzania (Tanganyika),51001000,Mainland Africans
+427,510,Tanzania (Tanganyika),51001020,Mainland Muslims
+427,541,Mozambique,54101000,Makonde-Yao
+427,553,Malawi,55301000,"Southerners (Lomwe, Mang'anja, Nyanja, Yao)"
+428,432,Mali,43203000,Arabs/Moors
+428,435,Mauritania,43501000,White Moors (Beydan)
+429,560,South Africa,56005000,Blacks
+429,560,South Africa,56005310,Pedi (North Sotho)
+429,560,South Africa,56005320,South Sotho
+429,570,Lesotho,57001000,Sotho
+430,560,South Africa,56005000,Blacks
+430,560,South Africa,56005400,Tswana
+430,571,Botswana,57101000,Tswana
+431,552,Zimbabwe (Rhodesia),55201000,Africans
+431,552,Zimbabwe (Rhodesia),55201100,Ndebele-Kalanga-(Tonga)
+431,560,South Africa,56005800,Ndebele
+432,552,Zimbabwe (Rhodesia),55201000,Africans
+432,552,Zimbabwe (Rhodesia),55201100,Ndebele-Kalanga-(Tonga)
+432,571,Botswana,57102000,Kalanga
+433,551,Zambia,55107000,Tonga-Ila-Lenje (Southerners)
+433,552,Zimbabwe (Rhodesia),55201100,Ndebele-Kalanga-(Tonga)
+433,553,Malawi,55303000,"Northerners (Tumbuka, Tonga, Ngonde)"
+434,560,South Africa,56005900,San
+434,565,Namibia,56510000,San
+434,571,Botswana,57111000,San
+435,565,Namibia,56505000,"Herero, Mbanderu"
+435,571,Botswana,57104000,Herero/Mbanderu
+436,501,Kenya,50101000,Kalenjin-Masai-Turkana-Samburu
+436,510,Tanzania (Tanganyika),51004000,Maasai
+437,510,Tanzania (Tanganyika),51001000,Mainland Africans
+437,510,Tanzania (Tanganyika),51001020,Mainland Muslims
+437,541,Mozambique,54101000,Makonde-Yao
+438,551,Zambia,55106000,Nyanja speakers (Easterners)
+438,553,Malawi,55301000,"Southerners (Lomwe, Mang'anja, Nyanja, Yao)"
+438,553,Malawi,55302000,Central (Chewa)
+439,501,Kenya,50101000,Kalenjin-Masai-Turkana-Samburu
+439,530,Ethiopia,53007000,Other Southern Nations
+440,501,Kenya,50108000,Somali
+440,520,Somalia,52001000,Somali
+440,522,Djibouti,52201000,Isaas (Somali)
+440,530,Ethiopia,53008000,Somali (Ogaden)
+441,625,Sudan,62501000,Azande
+441,626,South Sudan,62601000,Azande
+442,490,"Congo, Democratic Republic of (Zaire)",49013000,Tutsi-Banyamulenge
+442,500,Uganda,50011000,"South-Westeners (Ankole, Banyoro, Toro, Banyarwanda)"
+442,500,Uganda,50011030,Banyarwanda
+442,516,Burundi,51602000,Tutsi
+442,517,Rwanda,51702000,Tutsi
+443,482,Central African Republic,48206000,"Riverine groups (Ngbaka/Mbaka, Yakoma, Banziri etc.)"
+443,482,Central African Republic,48206040,Ngbaka/Mbaka
+443,490,"Congo, Democratic Republic of (Zaire)",49006000,Ngbaka
+444,500,Uganda,50011000,"South-Westeners (Ankole, Banyoro, Toro, Banyarwanda)"
+444,500,Uganda,50011030,Banyarwanda
+444,516,Burundi,51601000,Hutu
+444,517,Rwanda,51701000,Hutu
+445,522,Djibouti,52202000,Afar
+445,530,Ethiopia,53001000,Afar
+445,531,Eritrea,53103000,Afar
+500,115,Surinam,11502000,Chinese
+500,560,South Africa,56002000,Asians
+500,710,China,71003000,Chinese (Han)
+500,713,Taiwan,71302000,Mainland Chinese
+500,713,Taiwan,71303000,Taiwanese
+500,775,Myanmar (Burma),77503000,Chinese
+500,800,Thailand,80004000,Chinese
+500,811,Cambodia (Kampuchea),81102000,Chinese
+500,816,"Vietnam, Democratic Republic of",81601000,Hoa (Chinese)
+500,817,"Vietnam, Republic of",81701000,Hoa (Chinese)
+500,820,Malaysia,82001000,Chinese
+500,830,Singapore,83001000,Chinese
+500,835,Brunei,83504000,Chinese
+500,840,Philippines,84004000,Fil-Chinese
+500,850,Indonesia,85005000,Chinese (Han)
+500,900,Australia,90002000,Asians
+500,920,New Zealand,92004000,Asians
+501,820,Malaysia,82002000,Dayaks
+501,850,Indonesia,85016000,Dayak
+502,710,China,71008000,Miao
+502,800,Thailand,80005000,Hill Tribes
+502,812,Laos,81201000,Hmong
+502,816,"Vietnam, Democratic Republic of",81611000,Hmong
+510,811,Cambodia (Kampuchea),81104000,Vietnamese
+510,816,"Vietnam, Democratic Republic of",81602000,Kinh (Vietnamese)
+510,817,"Vietnam, Republic of",81702000,Kinh (Vietnamese)
+515,710,China,71009000,Mongolians
+515,710,China,71026000,Tu
+515,712,Mongolia,71203000,Mongols
+516,811,Cambodia (Kampuchea),81103000,Khmer
+516,816,"Vietnam, Democratic Republic of",81613000,Khmer
+520,365,Russia (Soviet Union),36538000,Koreans
+520,710,China,71006000,Koreans
+520,731,"Korea, People's Republic of",73101000,Koreans
+520,732,"Korea, Republic of",73201000,Koreans
+520,740,Japan,74006000,Koreans
+521,775,Myanmar (Burma),77509000,Shan
+521,800,Thailand,80003000,Thai
+521,811,Cambodia (Kampuchea),81107000,Thai-Lao
+521,812,Laos,81203000,Lao (incl. Phuan)
+529,710,China,71013000,Zhuang
+529,816,"Vietnam, Democratic Republic of",81616000,Nung
+529,816,"Vietnam, Democratic Republic of",81617000,Tay
+530,800,Thailand,80001000,Malay Muslims
+530,811,Cambodia (Kampuchea),81101000,Cham and Malays
+530,820,Malaysia,82005000,Malays
+530,835,Brunei,83501000,Bumiputera (Muslims)
+530,850,Indonesia,85017000,Malay
+531,775,Myanmar (Burma),77509000,Shan
+531,800,Thailand,80002000,Shan
+534,710,China,71028000,Wa
+534,775,Myanmar (Burma),77510000,Wa
+540,850,Indonesia,85013000,Papuans
+540,910,Papua New Guinea,91001000,Papua New Guineans
+560,800,Thailand,80003000,Thai
+560,811,Cambodia (Kampuchea),81107000,Thai-Lao
+560,816,"Vietnam, Democratic Republic of",81618000,Thai
+570,850,Indonesia,85006000,East Timorese
+570,860,East Timor,86001000,East Timorese
+598,500,Uganda,50001000,Asians
+598,560,South Africa,56002000,Asians
+598,750,India,75004000,Gujarati (non-SC/ST)
+602,710,China,71011000,Yao
+602,800,Thailand,80005000,Hill Tribes
+602,812,Laos,81204000,Lao Sung (excl. Hmong)
+602,816,"Vietnam, Democratic Republic of",81603000,Dao
+603,710,China,71017000,Jingpo
+603,775,Myanmar (Burma),77505000,Kachins
+604,710,China,71020000,Lisu
+604,775,Myanmar (Burma),77505000,Kachins
+605,115,Surinam,11505000,Javanese
+605,820,Malaysia,82005000,Malays
+605,850,Indonesia,85008000,Javanese
+606,820,Malaysia,82005000,Malays
+606,850,Indonesia,85010000,Makassarese and Bugis
+608,800,Thailand,80003000,Thai
+608,812,Laos,81209000,Lao Tai
+609,771,Bangladesh,77103000,Tribal-Buddhists
+609,775,Myanmar (Burma),77502000,Buddhist Arakanese
+755,710,China,71010000,Tibetans
+755,760,Bhutan,76001000,Bhutanese
+755,760,Bhutan,76001010,Ngalops (Drupka)
+907,500,Uganda,50007000,Karamojong
+907,626,South Sudan,62618000,Toposa
+908,530,Ethiopia,53012000,Anuak
+908,626,South Sudan,62619000,Anyuak
+909,501,Kenya,50106000,Luo
+909,510,Tanzania (Tanganyika),51001000,Mainland Africans
+909,510,Tanzania (Tanganyika),51001010,Others Mainland (Christians and traditional religions)
+1000,371,Armenia,37104000,Assyrians
+1000,630,Iran (Persia),63003000,Assyrians
+1000,645,Iraq,64504000,Assyrians
+1001,625,Sudan,62502000,Bari
+1001,626,South Sudan,62602000,Bari
+1002,402,Cape Verde,40201000,Cape Verdeans
+1002,404,Guinea-Bissau,40406000,Cape Verdean
+1003,625,Sudan,62504000,Dinka
+1003,626,South Sudan,62604000,Dinka
+1004,80,Belize,8004000,Garifuna
+1004,91,Honduras,9110000,Garifuna
+1005,590,Mauritius,59001200,Marathis
+1005,750,India,75011000,Marathi (non-SC/ST)
+1006,625,Sudan,62508000,Nuer
+1006,626,South Sudan,62608000,Nuer
+1007,437,Cote D'Ivoire,43704000,Other Akans
+1007,452,Ghana,45207000,Other Akans
+1008,625,Sudan,62513000,Shilluk
+1008,626,South Sudan,62613000,Shilluk
+1009,910,Papua New Guinea,91002000,Bougainvilleans
+1009,940,Solomon Islands,94001000,Solomon Islanders
+1010,411,Equatorial Guinea,41101000,Fang
+1010,481,Gabon,48103000,Fang
+1011,420,Gambia,42002000,Fula
+1012,340,Serbia,34013000,Vlachs
+1012,343,Macedonia (FYROM/North Macedonia),34306000,Vlachs
